@@ -14,6 +14,25 @@
                     }
                 },
                 {
+                    "source": "/Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "615"
+                    }
+                },
+                {
                     "source": "/Users/junhyeok/make-your-app-material/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "from": {
                         "startLines": "3,2",

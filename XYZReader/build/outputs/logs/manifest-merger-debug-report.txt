@@ -1,14 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
 MERGED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:palette-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/aa3fb463b27919c748eb5202ed4807f5/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/27e139188586e14abdfc7b70cc6bcbea/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3a853d2c3941f22e18424780271903de/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2ed5c21793cc0c226bd44bb4946e364/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/a9e6295a7ae973f78399aa1b1e7126ac/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/26bc5561cff27390f1350d6bfc43d336/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc0e78d31e1beb7853b333b751530d1d/AndroidManifest.xml:17:1-31:12
@@ -16,8 +19,8 @@ MERGED from [com.android.support:support-core-ui:25.3.0] /Users/junhyeok/.gradle
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e08ae326d7577b7379a643c47a3891f6/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/d30d1dfcb84694c207f4f5841eac1633/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9ab518d1c7b9736b8e66c6301438867c/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:1:1-49:12
 	package
 		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:2:5-36
 	android:versionName
@@ -47,17 +50,23 @@ ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidMani
 	android:name
 		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:11:5-47:19
 MERGED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:palette-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/aa3fb463b27919c748eb5202ed4807f5/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:palette-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/aa3fb463b27919c748eb5202ed4807f5/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3a853d2c3941f22e18424780271903de/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3a853d2c3941f22e18424780271903de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2ed5c21793cc0c226bd44bb4946e364/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2ed5c21793cc0c226bd44bb4946e364/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/a9e6295a7ae973f78399aa1b1e7126ac/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/a9e6295a7ae973f78399aa1b1e7126ac/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/26bc5561cff27390f1350d6bfc43d336/AndroidManifest.xml:29:5-20
@@ -79,71 +88,75 @@ MERGED from [com.android.support:support-compat:25.3.0] /Users/junhyeok/.gradle/
 	android:allowBackup
 		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:15:9-68
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:18:9-25:20
 	android:label
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:19:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:21:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:23:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:27:9-38:20
 	android:parentActivityName
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:28:13-65
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:29:13-65
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:27:13-53
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:28:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:30:13-34:29
 action#android.intent.action.VIEW
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:31:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:32:27-73
 data
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:33:17-100
 	android:mimeType
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:33:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:35:13-37:59
 	android:value
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:37:17-56
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:36:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:40:9-41:40
 	android:exported
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:40:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:43:9-45:40
 	android:authorities
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:44:13-56
 	android:exported
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml:43:19-53
 uses-sdk
 INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml
 INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml
 MERGED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:21:5-23:55
 MERGED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:palette-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/aa3fb463b27919c748eb5202ed4807f5/AndroidManifest.xml:20:5-43
@@ -152,6 +165,8 @@ MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/junhyeok/.gradle
 MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/27e139188586e14abdfc7b70cc6bcbea/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3a853d2c3941f22e18424780271903de/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3a853d2c3941f22e18424780271903de/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2ed5c21793cc0c226bd44bb4946e364/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f2ed5c21793cc0c226bd44bb4946e364/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/a9e6295a7ae973f78399aa1b1e7126ac/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/a9e6295a7ae973f78399aa1b1e7126ac/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/26bc5561cff27390f1350d6bfc43d336/AndroidManifest.xml:21:5-23:63
@@ -180,8 +195,12 @@ INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidM
 		INJECTED from /Users/junhyeok/make-your-app-material/XYZReader/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:support-v13:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/4d8d37079989f0082205efe0215213d5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/fd3744a633f6f35e6687e642c395857a/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/6e75e09ebc4af6f537d5949688420a23/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/24d6d14a2fe1a131101bdd156abbb79e/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ab029c27dc772f4f57275c164bc63a03/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:palette-v7:25.3.0] /Users/junhyeok/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/aa3fb463b27919c748eb5202ed4807f5/AndroidManifest.xml:22:5-24:34
